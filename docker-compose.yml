@@ -49,7 +49,7 @@ services:
       - ./docker-compose/data/mysql:/var/lib/mysql
     environment:
       MYSQL_ROOT_PASSWORD: 'o0.FMtqav07l}Qs;'
-      MYSQL_DATABASE: 'cabloy-demo'
+      MYSQL_DATABASE: 'cabloy-project'
       MYSQL_USER: 'web_user'
       MYSQL_PASSWORD: 'utj,5N-~@9]l20Pm'
     security_opt:
